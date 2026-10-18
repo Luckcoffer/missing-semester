@@ -20,4 +20,12 @@
 # SSH密钥:公钥与私钥
 1.就是可以让本地上传到有公钥的地方
 
-#
+# git常用命令
+1.git switch -c feature/hello
+2.git add
+3.git commit -m "描述"			
+4.git push -u origin feature/hello	推送
+5.git switch main			切换
+6.git pull				获取
+
+# 分支：为新功能保留独立开发线
